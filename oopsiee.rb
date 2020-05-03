@@ -1,8 +1,8 @@
 class Oopsiee < Formula
   desc "CLI tool which simplifies daily operations and on-call duty"
   homepage "https://github.com/edosrecki/oopsiee-cli"
-  url "https://github.com/edosrecki/oopsiee-cli/releases/download/v1.4.0/oopsiee-macos-1.4.0.tar.gz"
-  sha256 "bfd437a9249fc5059e69bd85b162efafbae314a3076400078adf775a31b3946c"
+  url "https://github.com/edosrecki/oopsiee-cli/releases/download/v1.5.0/oopsiee-macos-1.5.0.tar.gz"
+  sha256 "1e1d7cb8b47136ffbbbccf07cdc687c4fecf354b051378c04ffbe8aa5616f4a9"
 
   bottle :unneeded
 
