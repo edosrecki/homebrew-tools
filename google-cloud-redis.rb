@@ -1,8 +1,8 @@
 class GoogleCloudRedis < Formula
   desc "Connect to private Google Cloud Redis instance through stunnel proxy running in GKE cluster."
   homepage "https://github.com/edosrecki/google-cloud-redis-cli"
-  url "https://github.com/edosrecki/google-cloud-redis-cli/releases/download/v1.2.3/google-cloud-redis-macos-1.2.3.tar.gz"
-  sha256 "621caa34071940f7af8ca372428fc6a266484386761b971c07a8402bf3551b52"
+  url "https://github.com/edosrecki/google-cloud-redis-cli/releases/download/v1.2.4/google-cloud-redis-macos-1.2.4.tar.gz"
+  sha256 "7fe265c20abead21d311a6f4bac307bd566cc06c90a1c7c46e7b53a82ec926ee"
   def install
     bin.install "google-cloud-redis"
   end
