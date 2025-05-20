@@ -1,8 +1,8 @@
 class GoogleCloudSql < Formula
   desc "Connect to private Google Cloud SQL instance through Cloud SQL Auth Proxy running in GKE cluster."
   homepage "https://github.com/edosrecki/google-cloud-sql-cli"
-  url "https://github.com/edosrecki/google-cloud-sql-cli/releases/download/v1.9.4/google-cloud-sql-macos-1.9.4.tar.gz"
-  sha256 "aac8c684340f45497c661d72262175aa26bfd5e53b3bdd34b8663fd97c65c70a"
+  url "https://github.com/edosrecki/google-cloud-sql-cli/releases/download/v1.10.0/google-cloud-sql-macos-1.10.0.tar.gz"
+  sha256 "f6fa3b0197f6fb31502909649a8bc5f193a79dd99965e8cfba1a528acefcdabb"
   def install
     bin.install "google-cloud-sql"
   end
