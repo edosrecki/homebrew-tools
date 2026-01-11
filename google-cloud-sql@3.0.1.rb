@@ -1,4 +1,4 @@
-class GoogleCloudSql < Formula
+class GoogleCloudSqlAT301 < Formula
   desc "Connect to private Google Cloud SQL/AlloyDB instance through Cloud SQL/AlloyDB Auth Proxy running in GKE cluster."
   homepage "https://github.com/edosrecki/google-cloud-sql-cli"
   url "https://github.com/edosrecki/google-cloud-sql-cli/releases/download/v3.0.1/google-cloud-sql-macos-3.0.1.tar.gz"
